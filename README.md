@@ -10,4 +10,4 @@
 
 [![My stats on github](https://github-readme-stats.vercel.app/api?username=Anghelgg&show_icons=true&count_private=true&theme=nord)](https://github.com/Anghelgg)
 
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anghelgg&show_icons=true&theme=nord)](https://github.com/Anghelgg)
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anghelgg&theme=nord)](https://github.com/Anghelgg)
