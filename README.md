@@ -1,10 +1,10 @@
 ### Hi
 
 
-##Here a little information about me
+## Here a little information about me
 
-- 🔭 They call me ** Anghelgg **
-- 🌱 I am currently learning ** Java, C / C ++, Golang, typescript and more **
+- 🔭 They call me **Anghelgg**
+- 🌱 I am currently learning **Java, C / C ++, Golang, typescript and more**
 - 😄 Pronouns: Anghel
 - ⚡ Fun fact: I was interested in programming from the age of 12
 
